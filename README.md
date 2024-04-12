@@ -1,6 +1,6 @@
 # time-series-project - Academic project
 
-As part of a third-semester project, we have been asked to model a time series using R. The project comprises :
+As part of a third-semester project, we have been asked to model a time series using R. The project comprises:
 
 * Phase 1: Statistical and graphical analysis of a time series
 

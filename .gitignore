@@ -1,0 +1,11 @@
+# pyenv
+.python-version
+
+# pycache
+**/__pycache__
+
+# Environments
+.time-series-project-venv/
+
+# notebook checkpoints
+.ipynb_checkpoints

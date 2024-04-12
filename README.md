@@ -9,7 +9,8 @@ As part of a third-semester project, we have been asked to model a time series u
 * Phase 3: Analysis and modeling of residuals resulting from fitting
 
 Full details of this project can be found here :
-[Project](Projet-Series-Temporelles.pdf)
+[project](https://github.com/WissemBoujlida/time-series-project/blob/main/Projet-Series-Temporelles.pdf)
+
 # Technologies used to build the project
 
 - R
